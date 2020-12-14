@@ -25,13 +25,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="network.Client" />
+  <component name="RunManager" selected="Application.ServerApp">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.Client" />
       <module name="Java_HW_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="network.*" />
+          <option name="PATTERN" value="lesson7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -39,12 +39,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClientApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lession6.ClientApp" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="network.Client" />
       <module name="Java_HW_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lession6.*" />
+          <option name="PATTERN" value="network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lession6.Server" />
+    <configuration name="ServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.ServerApp" />
       <module name="Java_HW_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lession6.*" />
+          <option name="PATTERN" value="lesson7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ServerApp" />
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Server (1)" />
         <item itemvalue="Application.clientApp" />
-        <item itemvalue="Application.Server" />
-        <item itemvalue="Application.ClientApp" />
       </list>
     </recent_temporary>
   </component>
@@ -113,21 +113,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1876" height="298" key="GridCell.Tab.0.bottom" timestamp="1607683937966">
+    <state width="1876" height="259" key="GridCell.Tab.0.bottom" timestamp="1607967910487">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607683937966" />
-    <state width="1876" height="298" key="GridCell.Tab.0.center" timestamp="1607683937966">
+    <state width="1876" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607967910487" />
+    <state width="1876" height="259" key="GridCell.Tab.0.center" timestamp="1607967910487">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="298" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607683937966" />
-    <state width="1876" height="298" key="GridCell.Tab.0.left" timestamp="1607683937965">
+    <state width="1876" height="259" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607967910487" />
+    <state width="1876" height="259" key="GridCell.Tab.0.left" timestamp="1607967910487">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="298" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607683937965" />
-    <state width="1876" height="298" key="GridCell.Tab.0.right" timestamp="1607683937966">
+    <state width="1876" height="259" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607967910487" />
+    <state width="1876" height="259" key="GridCell.Tab.0.right" timestamp="1607967910487">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="298" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607683937966" />
+    <state width="1876" height="259" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607967910487" />
   </component>
 </project>
